@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523565539 source:d:\program files (x86)\trabajos practicos de fer...facu no lo borres\tp 1 calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
+1523565507 d:\program files (x86)\trabajos practicos de fer...facu no lo borres\tp 1 calculadora\calculadora.h
+
+1523565552 source:d:\program files (x86)\trabajos practicos de fer...facu no lo borres\tp 1 calculadora\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
